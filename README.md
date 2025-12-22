@@ -24,7 +24,7 @@ I actively contribute to major projects in the Angular/Reactive Programming ecos
 
 | Project | Contribution Type | Notable Impact |
 | :--- | :--- | :--- |
-| **NgRx** (State Management) | Code Modernization & Migration | Migrated codebase unit tests from Jest to **Vitest** to enhance build and test performance. See [PR #5034](https://github.com/ngrx/platform/pull/5034), [PR #5035](https://github.com/ngrx/platform/pull/5035), [PR #5036](https://github.com/ngrx/platform/pull/5036). |
+| **NgRx** (State Management) | Code Modernization & Migration | [Migrated codebase unit tests from Jest to **Vitest**](https://dev.to/ngrx/announcing-ngrx-21-celebrating-a-10-year-journey-with-a-fresh-new-look-and-ngrxsignalsevents-5ekp#a-big-thank-you-to-our-community) to enhance build and test performance. See [PR #5034](https://github.com/ngrx/platform/pull/5034), [PR #5035](https://github.com/ngrx/platform/pull/5035), [PR #5036](https://github.com/ngrx/platform/pull/5036). |
 | **RxAngular** (High-Perf UI) | Bug Fixes, Code Coverage, Maintenance | Demonstrated strong RxJS experience by utilizing **marble tests** to validate Observable data flow logic. See [PR #1422](https://github.com/rx-angular/rx-angular/pull/1422), [PR #1378](https://github.com/rx-angular/rx-angular/pull/1378). |
 | **Leaflet** (Mapping Library) | Core Improvements | Contributed a key improvement to the widely-used Leaflet library. See [PR #8504](https://github.com/Leaflet/Leaflet/pull/8504). |
 | **carbon-components-angular** (Design System) | Component Enhancement | Contributed to the Angular implementation of the Carbon Design System. See [PR #2270](https://github.com/carbon-design-system/carbon-components-angular/pull/2270). |
