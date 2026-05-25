@@ -4,6 +4,7 @@
 
 [![Angular Senior Certificate](https://img.shields.io/badge/Angular_Certified-Senior-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=7B1A1A)](https://certificates.dev/angular/certificates/9dc9e7b5-429b-413e-a753-6afc201b81fb)
 [![Angular Mid-Level Certificate](https://img.shields.io/badge/Angular_Certified-Mid--Level-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=7B1A1A)](https://certificates.dev/angular/certificates/9cab5e8b-defb-49df-8cc9-f8a1b9e516c4)
+[![React Junior Certificate](https://img.shields.io/badge/React_Certified-Junior-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1A365D)](https://certificates.dev/react/certificates/a1dcd491-4d15-4404-83cc-39a00c9ae475)
 
 I am a highly experienced Senior Frontend Developer specializing in building **high-performance, scalable web applications** using Angular, TypeScript, and the surrounding ecosystem. My expertise spans performance optimization (Core Web Vitals, LCP, SSR), robust state management (RxJS, NgRx, RxAngular), and modern Monorepo architecture using **Nrwl Nx**.
 
